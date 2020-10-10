@@ -1,6 +1,6 @@
 <?php
 
+SADWDAWDAWD
 
-phpinfo();
 
 ?>
